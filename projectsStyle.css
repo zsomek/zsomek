@@ -1,0 +1,28 @@
+html {
+    min-height: 100%;
+    margin: 0 0 0 0;
+   }
+   
+body {
+    background: linear-gradient(rgb(200 230 255), lightSteelBlue);
+    font-family: arial;
+    text-align: center;
+}
+   
+button {
+    margin: 0 0 50px 0;
+    font-size: 20px;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px;
+}
+   
+a {
+    color: inherit;
+}
+
+div {
+    margin: 10px, 0, 10px, 0;
+    border: 1px, solid;
+    background-color: white;
+    border-radius: 100px 100px 100px 100px;
+}
