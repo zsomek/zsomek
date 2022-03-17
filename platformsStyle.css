@@ -2,39 +2,39 @@ html {
     min-height: 100%;
    }
    
-   body {
+body {
     background: linear-gradient(rgb(200 230 255), lightSteelBlue);
     font-family: arial;
     text-align: center;
-   }
+}
    
-   img {
+img {
     margin: 0 0 0 0;
     height: 150px;
-   }
+}
    
-   button {
+button {
     margin: 0 0 5px 0;
     font-size: 20px;
     border-radius: 5px 5px 5px 5px;
     border: 1px;
-   }
+}
    
-   a {
+a {
     color: inherit;
-   }
+}
    
-   .yt {
+.yt {
     border: solid 3px rgb(255 100 100);
     background: rgb(255 155 155);
-   }
+}
    
-   .dc {
+.dc {
     border: solid 3px rgb(100 100 255);
     background: rgb(155 155 255);
-   }
+}
    
-   .twt {
+.twt {
     border: solid 3px rgb(130 145 255);
     background: rgb(185 200 255);
-   }
+}
