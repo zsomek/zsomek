@@ -23,6 +23,10 @@ button {
 a {
     color: inherit;
 }
+
+div {
+    width: 50%;
+}
    
 .yt {
     border: solid 3px rgb(255 100 100);
