@@ -26,3 +26,12 @@ div {
     background-color: white;
     border-radius: 100px 100px 100px 100px;
 }
+
+.code {
+    font-family: Trebuchet MS;
+    border: solid 2px lightgrey;
+    border-radius: 5px 5px 5px 5px;
+    background-color: lightgrey;
+    width: 13%;
+    margin: auto;
+}
