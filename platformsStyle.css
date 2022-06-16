@@ -35,13 +35,28 @@ div {
     border: solid 3px rgb(255 100 100);
     background: rgb(255 155 155);
 }
-   
+ 
+.ytHover {
+    border: solid 3px rgb(235 80 80);
+    background: rgb(235 135 135);
+}
+ 
 .dc {
     border: solid 3px rgb(100 100 255);
     background: rgb(155 155 255);
 }
-   
+ 
+.dcHover {
+    border: solid 3px rgb(80 80 235);
+    background: rgb(135 135 235);
+}
+  
 .twt {
     border: solid 3px rgb(130 145 255);
     background: rgb(185 200 255);
+}
+
+.twtHover {
+    border: solid 3px rgb(110 125 235);
+    background: rgb(165 180 235);
 }
