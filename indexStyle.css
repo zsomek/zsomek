@@ -14,6 +14,10 @@ button {
     border-radius: 5px 5px 5px 5px;
     border: 1px;
 }
+
+.buttonHover {
+    background-color: rgb(225, 225, 225);
+}
    
 a {
     color: inherit;

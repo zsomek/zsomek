@@ -16,10 +16,15 @@ img {
 }
    
 button {
-    margin: 0 0 5px 0;
+    margin: 10px 0 10px 0;
     font-size: 20px;
     border-radius: 5px 5px 5px 5px;
     border: 1px;
+    background-color: rgb(255, 255, 255)
+}
+
+.buttonHover {
+    background-color: rgb(225, 225, 225);
 }
    
 a {
@@ -52,11 +57,11 @@ div {
 }
   
 .twt {
-    border: solid 3px rgb(130 145 255);
-    background: rgb(185 200 255);
+    border: solid 3px rgb(120 135 245);
+    background: rgb(175 190 255);
 }
 
 .twtHover {
-    border: solid 3px rgb(110 125 235);
-    background: rgb(165 180 235);
+    border: solid 3px rgb(100 115 225);
+    background: rgb(155 170 235);
 }
